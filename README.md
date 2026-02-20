@@ -1,60 +1,42 @@
-<h1 align="center">👩🏻‍💻 Évellin Simões</h1>
+# 👩🏻‍💻 Évellin Simões
 
-<h3 align="center">
-Full-Stack Developer • AI Automation • AI Agents • CRM & ERP Systems
-</h3>
+Full-Stack Developer com foco em AI Automation, AI Agents e sistemas CRM & ERP.
 
-<p align="center">
-Desenvolvendo soluções inteligentes que conectam tecnologia, automação e negócios.
-</p>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💼 Estagiária Full-Stack Developer na EasyIT  
+🤖 Atuação em automação inteligente e integração de sistemas empresariais  
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Tech Stack
 
-Sou desenvolvedora Full-Stack com foco em automação inteligente e IA aplicada a processos empresariais.
+### 💻 Linguagens
+PHP • Python • C# • SQL • HTML • CSS
 
-Atualmente atuo na **EasyIT**, desenvolvendo módulos personalizados para CRM (Perfex), criando agentes de IA, estruturando automações complexas e integrando sistemas empresariais.
+### ⚙️ Frameworks & Ferramentas
+.NET • Docker • Git • Perfex CRM • Cloudflare • Plesk
 
-Trabalho com múltiplas linguagens e utilizo IA como ferramenta estratégica para acelerar desenvolvimento e criar soluções escaláveis.
-
----
-
-## 🧠 Especialidades
-
-🔹 Automação com IA  
-🔹 AI Agents (CrewAI, Latenode, Langflow)  
-🔹 Desenvolvimento e customização de CRM  
-🔹 Integração de APIs  
-🔹 OCR e processamento inteligente de dados  
-🔹 Conteinerização com Docker  
-🔹 Infraestrutura (DNS, Cloudflare, Plesk)
+### 🤖 Inteligência Artificial
+AI Automation • AI Agents • CrewAI • Latenode • Langflow • OCR
 
 ---
 
-## 💻 Tech Stack
+## 💼 Experiência
 
-### Linguagens
-`PHP` • `Python` • `C#` • `SQL` • `HTML` • `CSS`
+### EasyIT — Estagiária Full-Stack Developer  
+📅 Maio/2025 – Atual  
 
-### Ferramentas & Plataformas
-`Docker` • `.NET` • `Perfex CRM` • `Git` • `Cloudflare` • `Plesk`
-
-### Inteligência Artificial
-`AI Automation` • `AI Agents` • `CrewAI` • `Latenode` • `Langflow` • `OCR`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=evellinsimoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evellinsimoes&layout=compact&theme=tokyonight"/>
-</p>
+- Desenvolvimento e customização de módulos no Perfex CRM  
+- Implementação de Chat com IA integrado ao CRM  
+- Automação de processos empresariais com agentes de IA  
+- Estruturação de fluxos inteligentes utilizando CrewAI e Latenode  
+- Integração de APIs e sistemas  
+- Conteinerização de aplicações com Docker  
+- Configuração básica de DNS, Cloudflare e ambientes Plesk  
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo Profissional
 
 Evoluir como desenvolvedora especializada em IA aplicada a negócios, arquitetura de sistemas e automação inteligente.
 
