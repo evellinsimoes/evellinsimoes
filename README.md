@@ -4,7 +4,7 @@ Full-Stack Developer com experiência em AI Automation, AI Agents e sistemas CRM
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💼 Full-Stack Developer na EasyIT  
-🤖 Atuação em automação inteligente e integração de sistemas empresariais  
+🤖 Atuação em automação inteligente e integração de sistemas   
 
 ---
 
@@ -26,9 +26,9 @@ AI Automation • AI Agents • CrewAI • Latenode • Langflow • OCR
 ### EasyIT — Estagiária Full-Stack Developer  
 📅 Maio/2025 – Atual  
 
-- Desenvolvimento e customização de módulos no Perfex CRM  
-- Implementação de Chat com IA integrado ao CRM  
-- Automação de processos empresariais com agentes de IA  
+- Desenvolvimento e customização de sistemas 
+- Implementação de IA a sistemas  
+- Automação de processos com agentes de IA  
 - Estruturação de fluxos inteligentes utilizando CrewAI e Latenode  
 - Integração de APIs e sistemas  
 - Conteinerização de aplicações com Docker  
