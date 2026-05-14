@@ -3,7 +3,7 @@
 Full-Stack Developer com experiência em AI Automation, AI Agents e sistemas CRM & ERP.
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💼 Estagiária Full-Stack Developer na EasyIT  
+💼 Full-Stack Developer na EasyIT  
 🤖 Atuação em automação inteligente e integração de sistemas empresariais  
 
 ---
