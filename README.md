@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Évellin Simões
 
-Full-Stack Developer com experiência em AI Automation, AI Agents e sistemas CRM & ERP.
+Full-Stack Developer com experiência em AI Automation, AI Agents.
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💼 Full-Stack Developer na EasyIT  
