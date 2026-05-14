@@ -11,7 +11,7 @@ Full-Stack Developer com experiência em AI Automation, AI Agents.
 ## 🚀 Tech Stack
 
 ### 💻 Linguagens
-PHP • Python • C# • SQL • HTML • CSS
+PHP • Python • C# • SQL • HTML • CSS • JavaScript
 
 ### ⚙️ Frameworks & Ferramentas
 .NET • Docker • Git • Perfex CRM • Cloudflare • Plesk
@@ -23,11 +23,11 @@ AI Automation • AI Agents • CrewAI • Latenode • Langflow • OCR
 
 ## 💼 Experiência
 
-### EasyIT — Estagiária Full-Stack Developer  
+### EasyIT — Full-Stack Developer  
 📅 Maio/2025 – Atual  
 
 - Desenvolvimento e customização de sistemas 
-- Implementação de IA a sistemas  
+- Implementação de soluções de IA em sistemas empresariais  
 - Automação de processos com agentes de IA  
 - Estruturação de fluxos inteligentes utilizando CrewAI e Latenode  
 - Integração de APIs e sistemas  
