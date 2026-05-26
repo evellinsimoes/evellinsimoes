@@ -1,42 +1,40 @@
 # 👩🏻‍💻 Évellin Simões
 
-Full-Stack Developer com experiência em AI Automation, AI Agents.
+Full-Stack Developer com foco em IA aplicada e automação de sistemas.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💼 Full-Stack Developer na EasyIT  
-🤖 Atuação em automação inteligente e integração de sistemas   
+🎓 Cursando Análise e Desenvolvimento de Sistemas · Anhembi Morumbi  
+💼 Full-Stack Developer na EasyIT Group  
+📍 Votorantim/SP · Inglês intermediário  
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech stack
 
-### 💻 Linguagens
-PHP • Python • C# • SQL • HTML • CSS • JavaScript
+**Backend**  
+PHP (Laravel) · Python · C# · APIs REST
 
-### ⚙️ Frameworks & Ferramentas
-.NET • Docker • Git • Perfex CRM • Cloudflare • Plesk
+**Frontend**  
+JavaScript · React *(em aprendizado)* · HTML5 · CSS3
 
-### 🤖 Inteligência Artificial
-AI Automation • AI Agents • CrewAI • Latenode • Langflow • OCR
+**IA & Automação**  
+AI Agents · CrewAI · Langflow · Latenode · OCR · LLMs
+
+**Infra & Ferramentas**  
+Docker · Git/GitHub · SQL · Perfex CRM
 
 ---
 
 ## 💼 Experiência
 
-### EasyIT — Full-Stack Developer  
-📅 Maio/2025 – Atual  
-
-- Desenvolvimento e customização de sistemas 
-- Implementação de soluções de IA em sistemas empresariais  
-- Automação de processos com agentes de IA  
-- Estruturação de fluxos inteligentes utilizando CrewAI e Latenode  
-- Integração de APIs e sistemas  
+**EasyIT Group — Full-Stack Developer** *(Mai/2025 – Atual)*  
+- Desenvolvimento e customização de módulos em PHP/Laravel para sistemas ERP/CRM  
+- Arquitetura e implementação de agentes de IA com CrewAI e Langflow  
+- Construção e consumo de APIs REST para integração de sistemas e LLMs  
 - Conteinerização de aplicações com Docker  
-- Configuração básica de DNS, Cloudflare e ambientes Plesk  
 
 ---
 
-## 🎯 Objetivo Profissional
+## 🎯 Objetivo
 
 Evoluir como desenvolvedora especializada em IA aplicada a negócios, arquitetura de sistemas e automação inteligente.
 
@@ -44,5 +42,5 @@ Evoluir como desenvolvedora especializada em IA aplicada a negócios, arquitetur
 
 ## 📫 Contato
 
-💼 LinkedIn: https://linkedin.com/in/evellin-simoes  
-📧 Email: evellinesimoes@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-evellin--simoes-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/evellin-simoes)  
+[![Email](https://img.shields.io/badge/Email-evellinesimoes@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:evellinesimoes@gmail.com)
