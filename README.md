@@ -42,6 +42,5 @@ Evoluir como desenvolvedora especializada em IA aplicada a negócios, arquitetur
 
 ## 📫 Contato
 
-## 📫 Contato
-
-[LinkedIn](https://linkedin.com/in/evellin-simoes) · [evellinesimoes@gmail.com](mailto:evellinesimoes@gmail.com)
+💼 [linkedin.com/in/evellin-simoes](https://linkedin.com/in/evellin-simoes)  
+📧 evellinesimoes@gmail.com
