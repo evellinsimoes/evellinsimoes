@@ -15,16 +15,9 @@ Desenvolvo **automações e integrações de sistemas com IA aplicada a negócio
 ### 🚀 Stack
 
 **Backend** — PHP (Laravel) · Python · C# · APIs REST  
-**Frontend** — JavaScript · React (em aprendizado) · HTML5 · CSS3  
+**Frontend** — JavaScript · HTML5 · CSS3  
 **IA & Automação** — AI Agents · CrewAI · Langflow · Latenode · OCR · LLMs  
 **Infra & Ferramentas** — Docker · Git/GitHub · SQL · Perfex CRM
-
----
-
-### 📌 Projetos em destaque
-
-- 🤖 **[Chatbot Full Stack com IA](https://github.com/evellinsimoes/chatbot-openai)** — chatbot conversacional integrado à API da OpenAI (PHP + JavaScript)
-- ✅ **[Task Manager — API REST](https://github.com/evellinsimoes/task-manager-api)** — API de tarefas em Laravel, MySQL e autenticação Sanctum
 
 ---
 
