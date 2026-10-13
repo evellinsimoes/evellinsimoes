@@ -2,7 +2,7 @@
 
 **Desenvolvedora Full Stack** · PHP/Laravel, Python, IA e automação
 
-Gosto de tirar processos manuais do caminho: integrar sistemas que não conversam entre si e aplicar IA onde ela resolve um problema real de negócio. Sou tecnóloga em **Análise e Desenvolvimento de Sistemas** pela Anhembi Morumbi e trabalho principalmente com PHP/Laravel e Python.
+Desenvolvo integrações e automações que substituem trabalho manual repetitivo, conectando sistemas, tratando dados e usando IA quando ela faz diferença. No dia a dia, trabalho principalmente com PHP/Laravel e Python.
 
 ![PHP](https://img.shields.io/badge/PHP-20232a?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/Laravel-20232a?style=for-the-badge&logo=laravel&logoColor=FF2D20)
