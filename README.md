@@ -1,39 +1,33 @@
-# Évellin Simões
+# Olá, meu nome é Évellin
 
-**Full-Stack Developer** · Automação e integração de sistemas com IA aplicada a negócios, principalmente em Python e PHP/Laravel.
+**Desenvolvedora Full Stack** · PHP/Laravel, Python, IA e automação
 
-EasyIT Group · Tecnóloga em ADS · Anhembi Morumbi · Votorantim/SP
+Gosto de tirar processos manuais do caminho: integrar sistemas que não conversam entre si e aplicar IA onde ela resolve um problema real de negócio. Sou tecnóloga em **Análise e Desenvolvimento de Sistemas** pela Anhembi Morumbi e trabalho principalmente com PHP/Laravel e Python.
 
----
+![PHP](https://img.shields.io/badge/PHP-20232a?style=for-the-badge&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-20232a?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Python](https://img.shields.io/badge/Python-20232a?style=for-the-badge&logo=python&logoColor=3776AB)
+![Docker](https://img.shields.io/badge/Docker-20232a?style=for-the-badge&logo=docker&logoColor=2496ED)
+![MySQL](https://img.shields.io/badge/MySQL-20232a?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![CrewAI](https://img.shields.io/badge/CrewAI-20232a?style=for-the-badge)
 
-### 💼 Experiência
+## Sobre mim
 
-**Full-Stack Developer · EasyIT Group** · mai/2025 – atual
+- Atuo como **Full Stack** com foco em backend (PHP/Laravel), integrações via **APIs REST e OAuth** e automação.
+- **IA aplicada:** agentes com CrewAI e Langflow, OCR e integração de sistemas com LLMs.
+- Priorizo **entender o processo antes de automatizar** e entregar solução que roda em produção, não só demo.
+- Formação: **Tecnóloga em ADS** · Anhembi Morumbi · Bootcamp IA & AWS (DIO + Nublify).
 
-- Automação com OCR que substituiu a entrada manual de dados e a montagem manual de propostas comerciais.
-- Integração entre sistemas via APIs REST e OAuth, com Laravel.
-- Agentes de IA com CrewAI e Langflow e APIs REST conectando sistemas a LLMs, em projetos internos e pessoais.
+## Experiência
 
-### 🛠️ Stack
+**Desenvolvedora Full Stack** · EasyIT Group · mai/2025 – atual  
+`PHP` · `Laravel` · `Python` · `Docker` · `CrewAI` · `Langflow`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## Aprendendo agora
 
-**IA & Automação:** CrewAI · Langflow · Latenode · LLMs · OCR  
-**Backend:** C# · APIs REST · SQL  
-**Frontend:** JavaScript · HTML5 · CSS3  
-**Ferramentas:** Git/GitHub · Perfex CRM
+Node.js e TypeScript (Udemy) · Inglês
 
-### 🌱 Aprendendo agora
+## Contato
 
-Full Stack com Node.js e TypeScript (Udemy) · Inglês
-
-### 🎯 Objetivo
-
-Evoluir como desenvolvedora especializada em IA aplicada a negócios, integração de sistemas e automação inteligente.
-
-### 📫 Contato
-
-[LinkedIn](https://www.linkedin.com/in/evellin-simoes) · [evellinesimoes@gmail.com](mailto:evellinesimoes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evellin-simoes)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evellinesimoes@gmail.com)
