@@ -1,6 +1,6 @@
 # Olá, meu nome é Évellin
 
-**Desenvolvedora Full Stack** · PHP/Laravel, Python, IA e automação
+Desenvolvedora Full Stack · PHP/Laravel, Python, IA e automação
 
 Desenvolvo integrações e automações que substituem trabalho manual repetitivo, conectando sistemas, tratando dados e usando IA quando ela faz diferença. No dia a dia, trabalho principalmente com PHP/Laravel e Python.
 
