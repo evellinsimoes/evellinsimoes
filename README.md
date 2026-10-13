@@ -15,7 +15,7 @@ Desenvolvo integrações e automações que substituem trabalho manual repetitiv
 
 - Atuo como **Full Stack** com foco em backend (PHP/Laravel), integrações via **APIs REST e OAuth** e automação.
 - **IA aplicada:** agentes com CrewAI e Langflow, OCR e integração de sistemas com LLMs.
-- Priorizo **entender o processo antes de automatizar** e entregar solução que roda em produção, não só demo.
+- Priorizo **entender o processo antes de automatizar** e entregar soluções que funcionam no dia a dia de quem usa.
 - Formação: **Tecnóloga em ADS** - Anhembi Morumbi.
 
 ## Experiência
