@@ -16,7 +16,7 @@ Gosto de tirar processos manuais do caminho: integrar sistemas que não conversa
 - Atuo como **Full Stack** com foco em backend (PHP/Laravel), integrações via **APIs REST e OAuth** e automação.
 - **IA aplicada:** agentes com CrewAI e Langflow, OCR e integração de sistemas com LLMs.
 - Priorizo **entender o processo antes de automatizar** e entregar solução que roda em produção, não só demo.
-- Formação: **Tecnóloga em ADS** · Anhembi Morumbi · Bootcamp IA & AWS (DIO + Nublify).
+- Formação: **Tecnóloga em ADS** - Anhembi Morumbi.
 
 ## Experiência
 
